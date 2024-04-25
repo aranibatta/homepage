@@ -83,7 +83,7 @@ html {
 main {
   padding: 48px 56px;
   color: #222;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
   max-width: 560px;
   line-height: 1.5;
@@ -117,7 +117,7 @@ a:hover::after {
 #footnote {
   padding-right: 32px;
   margin-top: 48px;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 @media (max-width: 500px) {
