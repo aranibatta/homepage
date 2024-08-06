@@ -77,12 +77,12 @@ th {
 }
 
 html {
-  background: #fff;
+  background: #fafafa;
 }
 
 main {
   padding: 48px 56px;
-  color: #222;
+  color: #373938;
   font-size: 16px;
   font-weight: 300;
   max-width: 700px;
@@ -93,7 +93,7 @@ a,
 a:visited {
   overflow: hidden;
   position: relative;
-  color: #222;
+  color: #373938;
   text-decoration: none;
 }
 
